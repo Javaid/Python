@@ -1,4 +1,4 @@
-## Taxes UPS store crawler 
+## Taxes UPS Storea Crawler 
 
 This code will work in two steps
 - Crawl and store all the links into link table
